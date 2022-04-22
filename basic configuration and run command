@@ -1,0 +1,8 @@
+For this project Python version is python3.6
+
+To install all the project related dependencies run command-
+       pip install -r requirements.txt
+
+To run the project or for detection run the command-
+
+     python yolo_video.py
